@@ -502,7 +502,7 @@ background-color:
 }
 
 #mobile-nav ul li a:hover {
-  color: #18d26e;
+  color: #FF7200;
 }
 
 #mobile-nav ul li li {
@@ -893,7 +893,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
   font-size: 48px;
   display: block;
-  color: #18d26e;
+  color: #FF7200;
 }
 
 #facts .counters p {
@@ -941,7 +941,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: #FF7200;
   color: #fff;
 }
 
